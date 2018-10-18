@@ -1,4 +1,4 @@
-from .talk import tell_me_the_time
+from .talk import say_hello_to
 
 if __name__ == "__main__":
-    tell_me_the_time()
+    print(say_hello_to("Monty Python"))
