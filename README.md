@@ -59,7 +59,9 @@ The source goes into a `src` directory.
   otherwise).
 - Why a `devenv`? The devenv is a virtual environement created via `tox`.
   Thus it easily reproducible for everyone to create such a development
-  environment via `tox -e devenv`.
+  environment via `tox -e devenv` and use it via `source devenv/bin/activate`
+
+- Reference: https://tox.readthedocs.io/en/latest/example/devenv.html#development-environment
 
 ## requirements.txt
 
@@ -85,3 +87,4 @@ The source goes into a `src` directory.
 - Black
 - Doc / Sphinx
 - Include a 3rd party dependency (to use a requirements.txt or pipenv)
+- Describe typical workflow
