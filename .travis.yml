@@ -1,0 +1,7 @@
+sudo: false
+language: python
+python:
+  - "3.6"
+# for better tox-integration, see: https://pypi.org/project/tox-travis/
+install: pip install tox-travis
+script: tox
