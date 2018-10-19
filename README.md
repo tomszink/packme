@@ -1,5 +1,7 @@
 ## packme
 
+[![Build Status](https://travis-ci.com/tomszink/packme.svg?branch=master)](https://travis-ci.com/tomszink/packme)
+
 I created this little repo to try out and show how a typical Python
 project setup could look.
 
@@ -91,7 +93,6 @@ The source goes into a `src` directory.
 
 #### ToDos
 
-- TravisCI or alike
 - Code coverage
 - Black
 - Doc / Sphinx
