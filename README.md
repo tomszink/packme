@@ -83,8 +83,8 @@ The source goes into a `src` directory.
 #### devenv (Development environment)
 
 - Why a `devenv`? The devenv is a virtual environement created via `tox`.
-  Thus it easily reproducible for everyone to create such a development
-  environment easily via `tox -e devenv` and use it via `source devenv/bin/activate`
+  Thus it is easily reproducible for everyone to create such a development
+  environment via `tox -e devenv` and use it via `source devenv/bin/activate.
 - An alternative would be to use a requirements(-devenv).txt file with pip and
   a "manually" created venv, but this is a bit less standardized then and less
   convenient as a user.
