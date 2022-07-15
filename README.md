@@ -8,7 +8,7 @@ project setup could look.
 Below are some general explanations about the setup and some background
 information.
 
-My goal has been to include:
+Design goals:
 
 - using a canonical directory structure
 - packaging using setup.py
