@@ -1,6 +1,6 @@
 ## packme
 
-[![Build Status](https://travis-ci.com/tomszink/packme.svg?branch=master)](https://travis-ci.com/tomszink/packme)
+[![Python package](https://github.com/tomszink/packme/actions/workflows/main.yml/badge.svg)](https://github.com/tomszink/packme/actions/workflows/main.yml)
 
 I created this little repo to try out and show how a typical Python
 project setup could look.
